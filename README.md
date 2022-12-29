@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @bbarnett30
+- 👀 I’m interested in ... Automation
+- 🌱 I’m currently learning ... SQL, Python, Javascript, SFDC Apex
